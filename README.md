@@ -11,3 +11,4 @@ Natural language processing is a subfield of linguistics, computer science, info
 
 ## References
 1. [Named Entity Recognition](https://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html#languages-coverage)
+2. [SpaCy](https://spacy.io/usage/models#languages)
