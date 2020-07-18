@@ -7,6 +7,7 @@ Natural language processing is a subfield of linguistics, computer science, info
 2. Topic Identification
 3. Named Entity Recognition (NER)
 4. Building a "Fake News" Classifier
+5. Finding words, phrases, names and concepts
 
 
 ## References
