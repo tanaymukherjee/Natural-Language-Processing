@@ -12,6 +12,7 @@ Natural language processing is a subfield of linguistics, computer science, info
 5. Finding words, phrases, names and concepts
 6. Data Analysis with SpaCy
 7. Processing Pipelines
+8. Extension Attributes
 
 
 ## References
