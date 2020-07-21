@@ -14,11 +14,14 @@ Natural language processing is a subfield of linguistics, computer science, info
 7. Processing Pipelines
 8. Extension Attributes
 9. Scaling and Performance
-10. Training A Neural Network Model -I
-11. Training A Neural Network Model -II
+10. Training A Neural Network Model - I (Training and updating the models)
+11. Training A Neural Network Model - II (Training the loop)
+12. Training A Neural Network Model - III (Best practices for training models)
 
 
 ## References
 1. [Named Entity Recognition](https://polyglot.readthedocs.io/en/latest/NamedEntityRecognition.html#languages-coverage)
 2. [SpaCy](https://spacy.io/usage/models#languages)
 3. [Matching and Phrase Matching With SpaCy](https://medium.com/@ashiqgiga07/rule-based-matching-with-spacy-295b76ca2b68)
+4. [Annotation With Brat](http://brat.nlplab.org/)
+5. [Annotation With Prodigy](https://prodi.gy/)
