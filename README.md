@@ -14,7 +14,8 @@ Natural language processing is a subfield of linguistics, computer science, info
 7. Processing Pipelines
 8. Extension Attributes
 9. Scaling and Performance
-10. Training A Neural Network Model
+10. Training A Neural Network Model -I
+11. Training A Neural Network Model -II
 
 
 ## References
